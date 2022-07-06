@@ -4,6 +4,6 @@ setInterval(()=>{
     counter.innerText = count;
     count++
     
-    if(count > 1.6) location.replace('/instagram/')
+    if(count > 1.6) location.replace('/instagram/login.html')
     
 },1000)
